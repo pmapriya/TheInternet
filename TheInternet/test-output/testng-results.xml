@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20056" started-at="2018-06-05T22:32:59Z" finished-at="2018-06-05T22:33:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20056" started-at="2018-06-05T22:32:59Z" finished-at="2018-06-05T22:33:19Z">
+      <class name="com.qa.Testcase.TestCase">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.qa.Testcase.TestCase@23ceabc1]" name="openBrowser" is-config="true" duration-ms="11816" started-at="2018-06-05T23:32:59Z" finished-at="2018-06-05T23:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="activeLinks()[pri:8, instance:com.qa.Testcase.TestCase@23ceabc1]" name="activeLinks" duration-ms="6309" started-at="2018-06-05T23:33:11Z" finished-at="2018-06-05T23:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeLinks -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.Testcase.TestCase@23ceabc1]" name="closeBrowser" is-config="true" duration-ms="1918" started-at="2018-06-05T23:33:17Z" finished-at="2018-06-05T23:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.Testcase.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
